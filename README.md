@@ -2,6 +2,10 @@
 
 Aplicación web creada para modernizar la preparación de cotizaciones de Mundo Bordados y reemplazar un flujo basado en hojas de cálculo.
 
+## Demo en línea
+
+[Abrir Cotizador Mundo Bordados · Demo pública](https://cotizador-mundo-bordados.eimy-espinosa.chatgpt.site)
+
 La demostración permite completar los datos del cliente, agregar productos dinámicamente, calcular totales e ITBMS y descargar el documento en PDF o PNG. Los borradores se guardan únicamente en el navegador del visitante.
 
 ## Funciones principales
