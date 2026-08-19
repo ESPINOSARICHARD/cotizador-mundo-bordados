@@ -4,7 +4,7 @@ Aplicación web creada para modernizar la preparación de cotizaciones de Mundo 
 
 ## Demo en línea
 
-[Abrir Cotizador Mundo Bordados · Demo pública](https://cotizador-mundo-bordados.eimy-espinosa.chatgpt.site)
+[Abrir Cotizador Mundo Bordados · Demo pública](https://cotizador-mundo-bordados-richard-espinosa.vercel.app)
 
 ![Vista previa del Cotizador Mundo Bordados](public/og.png)
 
